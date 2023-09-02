@@ -23,3 +23,4 @@ mongoose.connect("mongodb+srv://admin:sJ1S40iZANmNP1mQ@cluster0.hy1rqqm.mongodb.
 .catch((err)=>console.log(err))
 
 //sJ1S40iZANmNP1mQ
+//glpat-752De6cGApBKmWsvVtXPg
